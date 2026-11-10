@@ -1,0 +1,16 @@
+{
+  "project": "Ad-Spend Decision Workbench",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 194512,
+      "sha256": "b51f5f1c5d34cac607df65e8324bba52f15ad1b24a782616bb3379a2c73d38bd"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 2440098,
+      "sha256": "efdebcbf857dbe3c1dfbc3ed7282b3c7e86d08c7a2d777375e5370b35d267f70"
+    }
+  ]
+}
